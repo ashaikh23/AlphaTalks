@@ -325,4 +325,5 @@ MIT
 ---
 
 *Built for the 2025 Microsoft Global Intern Hackathon *
+
 **3rd Place Winner** in the category of Microsoft Customer Engagement & Sales
