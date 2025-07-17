@@ -1,9 +1,5 @@
 # AlphaTalks
 
-AlphaTalks is a web application that helps marketers and content creators analyze and adapt their marketing content to resonate with different generations: Gen Z, Millennials, and Boomers. The app leverages Azure OpenAI for advanced text analysis and translation, supporting text, image, and PowerPoint content.
-
-# AlphaTalks
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black)](https://nextjs.org/)
 [![Azure OpenAI](https://img.shields.io/badge/Azure-OpenAI-blue)](https://azure.microsoft.com/en-us/products/ai-services/openai-service)
